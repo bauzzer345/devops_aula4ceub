@@ -10,3 +10,5 @@ module.exports = {
   somar,
   subtrair
 };
+
+const a = 110
