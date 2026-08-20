@@ -1,5 +1,5 @@
 function somar(a, b) {
-  return a + b;
+  return a - b;
 }
 
 function subtrair(a, b) {
@@ -11,4 +11,3 @@ module.exports = {
   subtrair
 };
 
-const a = 110
